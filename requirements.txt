@@ -1,0 +1,6 @@
+ipython
+econ-ark==0.10.6
+jupyter
+matplotlib
+numpy
+
