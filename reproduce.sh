@@ -1,3 +1,1 @@
-python -m pip install -r requirements.txt
-
-ipython Endogenous-Retirement.py
+ipython --classic --matplotlib=agg Endogenous-Retirement.py
