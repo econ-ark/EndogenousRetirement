@@ -1,0 +1,13 @@
+[project]
+name = "endogenousretirement"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "econ-ark",
+    "jupyter>=1.1.1",
+]
+
+[tool.uv.sources]
+econ-ark = { git = "https://github.com/econ-ark/HARK", rev = "master" }
